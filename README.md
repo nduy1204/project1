@@ -1,1 +1,1 @@
-# project1
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/NgVanDuyy/Data-Analysis-Project/blob/main/EDA_Project.ipynb](https://colab.research.google.com/drive/1gl1PYk1zKCyS_UTUuRqiBUSav8wWLhAv?usp=sharing&fbclid=IwY2xjawGeN4JleHRuA2FlbQIxMAABHXy9w7JTbkofjnLrOvOEQSz2D9OwAwuh7OYqkjyGKvYVwjZlB9MxSB9Frw_aem_1op2qRnloTThswpLGiwmkw)
